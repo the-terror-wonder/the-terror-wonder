@@ -1,4 +1,4 @@
-### Hi there I am first year student of BTech cse (NIT RR) 👋
+### Hi there I am second year student of BTech cse (NIT RR) 👋
 
 <!--
 **the-terror-wonder/the-terror-wonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
